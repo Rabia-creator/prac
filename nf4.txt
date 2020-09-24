@@ -1,4 +1,6 @@
 this is practcing fast forward commit
 
-
 checking
+
+im practicing rebase
+
